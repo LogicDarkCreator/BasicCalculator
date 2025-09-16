@@ -6,4 +6,4 @@ The file `screen.py` contains the main configuration
 
 The file `btns.py` contains the calculator buttons display
 
-Path: `*\configs\btns.py`
+# Path: `*\configs\btns.py`
